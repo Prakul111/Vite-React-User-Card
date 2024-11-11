@@ -13,3 +13,4 @@ export function UserCard({ name, age, phoneNumber, address }) {
       </div>
     )
   }
+  
